@@ -31,8 +31,8 @@
 
     <color name="workspace_icon_text_color">#FFF</color>
 
-    <color name="quantum_panel_text_color">#FF666666</color>
-    <color name="quantum_panel_text_shadow_color">#FFC4C4C4</color>
+    <color name="quantum_panel_text_color">ffffff</color>
+    <color name="quantum_panel_text_shadow_color">ffffff</color>
     <color name="outline_color">#FFFFFFFF</color>
     <color name="widget_text_panel">#FF374248</color>
     <color name="first_run_cling_circle_background_color">#64b1ea</color>
@@ -53,10 +53,10 @@
     <color name="app_scrubber_highlight_color">@android:color/white</color>
     <color name="app_scrubber_gray_color">@android:color/darker_gray</color>
 
-    <color name="scrubber_background">#CC14191E</color>
+    <color name="scrubber_background">#607d8b</color>
     <color name="aftv_shadowColor">#b0000000</color>
 
-    <color name="tint_searchview">#8a000000</color>
-    <color name="searchview_text">#8a000000</color>
-    <color name="searchview_hint">#80000000</color>
+    <color name="tint_searchview">#ffffff</color>
+    <color name="searchview_text">#ffffff</color>
+    <color name="searchview_hint">#ffffff</color>
 </resources>
