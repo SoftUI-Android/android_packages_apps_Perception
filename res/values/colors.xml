@@ -31,8 +31,8 @@
 
     <color name="workspace_icon_text_color">#FFF</color>
 
-    <color name="quantum_panel_text_color">ffffff</color>
-    <color name="quantum_panel_text_shadow_color">ffffff</color>
+    <color name="quantum_panel_text_color">#ffffff</color>
+    <color name="quantum_panel_text_shadow_color">#ffffff</color>
     <color name="outline_color">#FFFFFFFF</color>
     <color name="widget_text_panel">#FF374248</color>
     <color name="first_run_cling_circle_background_color">#64b1ea</color>
