@@ -87,14 +87,17 @@
             launcher:className="com.google.apps.dots.android.app.activity.CurrentsStartActivity"
             launcher:packageName="com.google.android.apps.magazines" />
     </folder>
-
-    <favorite
-            launcher:packageName="com.android.calculator2"
-            launcher:className=".widget.CalculatorWidget"
-            launcher:screen="1"
-            launcher:x="2"
-            launcher:y="3" />
-
+	
+    <!-- calculator Widget -->
+    <appwidget
+        launcher:packageName="com.android.calculator2"
+        launcher:className="com.android.calculator2.widget.CalculatorWidget"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3"
+        launcher:spanX="1"
+        launcher:spanY="1" />
+		
     <resolve
         launcher:screen="1"
         launcher:x="3"
