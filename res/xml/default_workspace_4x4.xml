@@ -91,7 +91,7 @@
     <!-- calculator Widget -->
     <appwidget
         launcher:packageName="com.android.calculator2"
-        launcher:className="com.android.calculator2.floating.FloatingCalculatorCreateShortCutActivity"
+        launcher:className="com.android.calculator2.com.xlythe.floatingview.FloatingActivity"
         launcher:screen="1"
         launcher:x="2"
         launcher:y="3"
